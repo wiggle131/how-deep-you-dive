@@ -81,7 +81,7 @@ const Input = ({addUser, typeMeasure}) => {
                 <div className='flex justify-center my-4'>
                     <button className="h-10 w-fit bg-gradient-to-r from-[#D12E64] to-[#F497B6] btn font-Open-Sans inline-block px-6 py-2 bg-white text-xs leading-tight uppercase rounded-3xl hover:background-animate  focus:outline-none focus:ring-0 transition duration-150 ease-in-out" 
                         >
-                            Search
+                            Add
                     </button>
                 </div>
             </div>

@@ -23,7 +23,7 @@ const Table = ({users, deleteUser, editRow, measuringType}) => {
     return(
         <div className='grid grid-cols-1 grid-rows-1 grid-flow-col place-items-center h-screen md:w-100 lg:w-1/2 '>
           <table className='font-Open-Sans font-bold text-xl table-fixed h-5/6 w-5/6 shadow-md bg-gradient-to-b from-[#2D92D1] from-[#2D92D1] rounded-3xl'>
-              <thead>
+              <thead className='bg-[#]'>
                   <tr className='h-12 text-3xl font-extrabold'>
                       <th>Name</th>
                       <th>Depth</th>

@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/how-deep-you-dive/static/css/main.11a2cac3.css",
-    "main.js": "/how-deep-you-dive/static/js/main.1803a91c.js",
+    "main.js": "/how-deep-you-dive/static/js/main.5eefe3f1.js",
     "static/js/787.2df529aa.chunk.js": "/how-deep-you-dive/static/js/787.2df529aa.chunk.js",
     "static/media/background.jpg": "/how-deep-you-dive/static/media/background.4f1397d83b90714dc030.jpg",
     "index.html": "/how-deep-you-dive/index.html",
     "main.11a2cac3.css.map": "/how-deep-you-dive/static/css/main.11a2cac3.css.map",
-    "main.1803a91c.js.map": "/how-deep-you-dive/static/js/main.1803a91c.js.map",
+    "main.5eefe3f1.js.map": "/how-deep-you-dive/static/js/main.5eefe3f1.js.map",
     "787.2df529aa.chunk.js.map": "/how-deep-you-dive/static/js/787.2df529aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11a2cac3.css",
-    "static/js/main.1803a91c.js"
+    "static/js/main.5eefe3f1.js"
   ]
 }
